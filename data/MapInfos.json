@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"世界地图","order":1,"parentId":0,"scrollX":819,"scrollY":476.5},
-{"id":2,"expanded":false,"name":"至爱城城堡","order":2,"parentId":0,"scrollX":819,"scrollY":476.5},
+{"id":1,"expanded":true,"name":"世界地图","order":1,"parentId":0,"scrollX":817,"scrollY":474.5},
+{"id":2,"expanded":false,"name":"至爱城城堡","order":2,"parentId":0,"scrollX":817,"scrollY":474.5},
 {"id":3,"expanded":false,"name":"看守者监狱","order":3,"parentId":0,"scrollX":819,"scrollY":476.5},
 {"id":4,"expanded":true,"name":"监狱1","order":4,"parentId":0,"scrollX":819,"scrollY":476.5},
 {"id":5,"expanded":true,"name":"监狱2","order":5,"parentId":0,"scrollX":819,"scrollY":476.5},
